@@ -49,4 +49,3 @@ namespace OauthScenario.Server.Controllers
         }
     }
 }
-}
